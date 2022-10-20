@@ -1,4 +1,5 @@
 # DIY Recommendation Systems
+- **Project** The project of the week can be found in [Project_of_the_week](https://github.com/DataTalksClub/project-of-the-week/blob/main/2022-10-19-recommenders-1.md)
 - **Goal**: Learn about the different types of recommendation systems algorithms and explore them in Jupyter notebooks.
 - **Dates**: from 19 October to 2 November
 
